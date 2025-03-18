@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/sovit_chaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/sovit_chaudhary?logo=twitter&style=for-the-badge" alt="sovit_chaudhary" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sovitchaudhary45@gmail.com**
 
